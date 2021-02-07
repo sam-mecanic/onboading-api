@@ -1,0 +1,23 @@
+{
+  "name": "onboarding",
+  "version": "1.0.0",
+  "description": "this projet conatins all the file of bigco Onboarding API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam-mecanic/onboading-api.git"
+  },
+  "keywords": [],
+  "author": "sam-mecanic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sam-mecanic/onboading-api/issues"
+  },
+  "homepage": "https://github.com/sam-mecanic/onboading-api#readme",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
