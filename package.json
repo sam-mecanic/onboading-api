@@ -11,7 +11,12 @@
     "type": "git",
     "url": "git+https://github.com/sam-mecanic/onboading-api.git"
   },
-  "keywords": ["api","big-co","service","manager"],
+  "keywords": [
+    "api",
+    "big-co",
+    "service",
+    "manager"
+  ],
   "author": "sam-mecanic",
   "license": "ISC",
   "bugs": {
